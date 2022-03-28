@@ -11,7 +11,8 @@ Tableau is a visual analytics platform transforming the way we use data to solve
 - Smart Dashboards : Multiple views can be combined for deeper insights and shared online or via mobile devices using a simple command.
 
 ## 📑 Case Studies:
-- Netflix Movies and TV Shows
+- [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)
+- [Amazon Prime TV Shows](https://www.kaggle.com/datasets/nilimajauhari/amazon-prime-tv-shows)
 
 ## References:
 ### 📺 Youtube:
